@@ -11,5 +11,4 @@ APPROVED_BREEDS = [
     "Pointer"
 ]
 
-class Dog:
-    pass
+
